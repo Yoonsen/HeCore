@@ -4,4 +4,8 @@ numpy
 requests
 IPython
 seaborn
+networkx
+wordcloud
+community
+python_louvain
 ipywidgets
