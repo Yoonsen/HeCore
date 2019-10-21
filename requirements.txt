@@ -9,3 +9,4 @@ wordcloud
 community
 python_louvain
 ipywidgets
+dhlab
