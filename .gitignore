@@ -1,10 +1,8 @@
 ./Avisdata/*
 avis_agg.json
 aviser_reference.json
-.ipynb_checkpoints/coll_influensa_pmi-Copy1-checkpoint.ipynb
-.ipynb_checkpoints/coll_influensa_pmi-Copy2-checkpoint.ipynb
-.ipynb_checkpoints/Illustrations-helse-kultut-politikk-samfunn-checkpoint.ipynb
 avis_agg_sample_20.json
 .ipynb_checkpoints/coll_helse_pmi-Copy1-checkpoint.ipynb
 collocation_fotballspiller.csv
 .ipynb_checkpoints/coll_helse_review_xmas_2020-checkpoint.ipynb
+*-checkpoint.ipynb
